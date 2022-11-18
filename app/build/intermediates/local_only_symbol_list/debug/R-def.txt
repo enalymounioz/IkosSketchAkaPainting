@@ -21,6 +21,7 @@ drawable ic_gallery
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_redo
+drawable ic_save
 drawable ic_three_trees
 drawable ic_undo
 drawable large
@@ -36,6 +37,7 @@ id imageButton_gallery
 id imageButton_large_brush
 id imageButton_medium_brush
 id imageButton_redo
+id imageButton_save
 id imageButton_small_brush
 id imageButton_undo
 id imageView_background
@@ -43,9 +45,11 @@ id linearLayout_action_button
 id paint_colors
 layout activity_main
 layout dialog_brush_size
+layout dialog_custom_progress
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 style Theme.IkoSketch
 xml backup_rules
 xml data_extraction_rules
+xml path

@@ -2580,6 +2580,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_redo
+drawable ic_save
 drawable ic_three_trees
 drawable ic_undo
 drawable large
@@ -2884,6 +2885,7 @@ id imageButton_gallery
 id imageButton_large_brush
 id imageButton_medium_brush
 id imageButton_redo
+id imageButton_save
 id imageButton_small_brush
 id imageButton_undo
 id imageView_background
@@ -3287,6 +3289,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dialog_brush_size
+layout dialog_custom_progress
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -4694,3 +4697,4 @@ styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration
 styleable include constraintSet
 xml backup_rules
 xml data_extraction_rules
+xml path

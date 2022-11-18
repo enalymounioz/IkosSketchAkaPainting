@@ -52,6 +52,12 @@ class DrawingView(context: Context, attrs: AttributeSet) : View(context, attrs) 
             invalidate()
         }
     }
+    fun onClickSave(){
+        if (mPaths.size > 0) {
+            mPaths.removeAt(mPaths.size - 1)
+            invalidate()
+        }
+    }
 
     private fun setUpDrawing() {
         mDrawPaint = Paint()

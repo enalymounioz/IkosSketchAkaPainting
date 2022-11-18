@@ -1,4 +1,4 @@
-#Fri Nov 18 11:40:02 EET 2022
+#Fri Nov 18 16:33:12 EET 2022
 base.2=C\:\\Users\\evoreopoulou\\AndroidStudioProjects\\IkoSketch\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
 path.2=3/classes.dex
 base.1=C\:\\Users\\evoreopoulou\\AndroidStudioProjects\\IkoSketch\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

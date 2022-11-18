@@ -1,22 +1,26 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\evoreopoulou\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\07314dd07c6d151d1d21cf5484b5b880\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\35247393b79a5fe3c4f500e2adf3d76f\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\e2ead5f317d22088c48cad1a61f8b969\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\evoreopoulou\.gradle\caches\transforms-3\aabd96d17d3f8389713fa62fe78ebf8d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\452faa790de09d58da6b284d50d9ef16\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\b735e2f4444e7b5aa3ffe15747714000\transformed\activity-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0c65efeec3ddfd380179fb83244f9035\transformed\activity-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\5f1f86b25644df3b525c292fe559dc45\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7539988c0c43f68de6af56adfe29364e\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\385e466706e73bb3d73bbe6b4875519d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\74dede7469dde4ebb849523538d1356b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\5ce07e52a7d4e86d32024963e64ae55f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\f2489d9065f4dca5ca4b308de42fbf04\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\a499c8d2b59af5c3d7b5f216dcb51a9d\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\97f9aee10d1c259b8eaca17205107e00\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0df7e7742d8f8e795c92f4553aaca675\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0ee939d3497cce09e896af53913a88ae\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
@@ -33,9 +37,9 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\evoreopoulou\.
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\ecb295b800ded09051f724a4ba193524\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\b9bab58cadaff330d559da69256a0313\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\4ed59577b3c31daa698d7cd9567771e1\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\79e57da9ef16725cd636178f64b7ce13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\9b72d3a0628617d3f17d9cb77d3f51cf\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0de8b80e80221d3f31c9086666059ce1\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
@@ -44,31 +48,35 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\evoreopoulou\.gr
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\eb096476208bed94cd51cc904aa804e3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\87b6f924c6c766718f595823a69da52a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
 		INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:4:5-79
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:4:22-77
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:6:5-31:19
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:9:5-44:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\evoreopoulou\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -79,56 +87,72 @@ MERGED from [androidx.core:core:1.8.0] C:\Users\evoreopoulou\.gradle\caches\tran
 MERGED from [androidx.core:core:1.8.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\b9bab58cadaff330d559da69256a0313\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\b9bab58cadaff330d559da69256a0313\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:12:9-54
 	android:roundIcon
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:12:9-47
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:15:9-47
 	tools:targetApi
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:15:9-29
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:18:9-29
 	android:icon
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:10:9-42
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:13:9-42
 	android:allowBackup
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:14:9-47
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:17:9-47
 	android:dataExtractionRules
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:8:9-65
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:11:9-65
 activity#com.elenivoreos.ikosketch.MainActivity
-ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:16:9-30:20
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:19:9-33:20
 	android:screenOrientation
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:19:13-49
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:22:13-49
 	android:exported
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:21:13-36
 	tools:ignore
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:20:13-53
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:23:13-53
 	android:name
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:27:27-74
 meta-data#android.app.lib_name
-ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:27:13-29:36
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:30:13-32:36
 	android:value
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:29:17-33
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:32:17-33
 	android:name
-		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:28:17-52
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:31:17-52
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:34:9-43:20
+	android:grantUriPermissions
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:38:13-47
+	android:authorities
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:35:13-73
+	android:exported
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:36:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:39:13-41:47
+	android:resource
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:41:17-45
+	android:name
+		ADDED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:40:17-67
 uses-sdk
 INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
@@ -145,8 +169,14 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\evoreopoulou\.gradle
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\e2ead5f317d22088c48cad1a61f8b969\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\evoreopoulou\.gradle\caches\transforms-3\aabd96d17d3f8389713fa62fe78ebf8d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\evoreopoulou\.gradle\caches\transforms-3\aabd96d17d3f8389713fa62fe78ebf8d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\452faa790de09d58da6b284d50d9ef16\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\452faa790de09d58da6b284d50d9ef16\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\b735e2f4444e7b5aa3ffe15747714000\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\b735e2f4444e7b5aa3ffe15747714000\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0c65efeec3ddfd380179fb83244f9035\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0c65efeec3ddfd380179fb83244f9035\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\5f1f86b25644df3b525c292fe559dc45\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\5f1f86b25644df3b525c292fe559dc45\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7539988c0c43f68de6af56adfe29364e\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7539988c0c43f68de6af56adfe29364e\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\385e466706e73bb3d73bbe6b4875519d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\385e466706e73bb3d73bbe6b4875519d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\74dede7469dde4ebb849523538d1356b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
@@ -159,6 +189,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\e
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\a499c8d2b59af5c3d7b5f216dcb51a9d\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\97f9aee10d1c259b8eaca17205107e00\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\97f9aee10d1c259b8eaca17205107e00\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0df7e7742d8f8e795c92f4553aaca675\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0df7e7742d8f8e795c92f4553aaca675\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\0ee939d3497cce09e896af53913a88ae\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
@@ -191,12 +223,12 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\evoreopoulou\.
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\ecb295b800ded09051f724a4ba193524\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\b9bab58cadaff330d559da69256a0313\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\b9bab58cadaff330d559da69256a0313\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\4ed59577b3c31daa698d7cd9567771e1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\4ed59577b3c31daa698d7cd9567771e1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\79e57da9ef16725cd636178f64b7ce13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\79e57da9ef16725cd636178f64b7ce13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\evoreopoulou\.gradle\caches\transforms-3\9b72d3a0628617d3f17d9cb77d3f51cf\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.elenivoreos.ikosketch.app-mergeDebugResources-27:/values-nb/values-nb.xml",
+            "outputFile": "com.elenivoreos.ikosketch.app-mergeDebugResources-31:/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "C:\\Users\\evoreopoulou\\.gradle\\caches\\transforms-3\\53edefe15d403f8467620aa121e38059\\transformed\\material-1.7.0\\res\\values-nb\\values-nb.xml",
