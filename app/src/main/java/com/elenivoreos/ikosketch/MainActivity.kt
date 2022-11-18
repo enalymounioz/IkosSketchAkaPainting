@@ -79,6 +79,13 @@ class MainActivity : AppCompatActivity() {
 
         val imageButtonUndo: ImageButton = findViewById(R.id.imageButton_undo)
         imageButtonUndo.setOnClickListener {
+            drawingView?.onClickUndo()
+
+        }
+
+        val imageButtonRedo: ImageButton = findViewById(R.id.imageButton_redo)
+        imageButtonRedo.setOnClickListener {
+            drawingView?.onClickRedo()
 
         }
 

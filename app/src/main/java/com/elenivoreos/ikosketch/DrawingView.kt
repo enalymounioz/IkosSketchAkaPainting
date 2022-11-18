@@ -33,9 +33,24 @@ class DrawingView(context: Context, attrs: AttributeSet) : View(context, attrs) 
      */
     private var canvas: Canvas? = null
     private val mPaths = ArrayList<CustomPath>()// ArrayList for Paths
+    private val mUndoPaths = ArrayList<CustomPath>()// ArrayList for Undo Paths
 
     init {
         setUpDrawing()
+    }
+
+    fun onClickUndo() {
+        if (mPaths.size > 0) {
+            mUndoPaths.add(mPaths.removeAt(mPaths.size - 1))
+            invalidate()
+        }
+    }
+
+    fun onClickRedo() {
+        if (mUndoPaths.size > 0) {
+            mPaths.add(mUndoPaths.removeAt(mUndoPaths.size - 1))
+            invalidate()
+        }
     }
 
     private fun setUpDrawing() {
@@ -164,8 +179,8 @@ class DrawingView(context: Context, attrs: AttributeSet) : View(context, attrs) 
 
     }
 
-    fun setColor(newColor: String){
-         color = Color.parseColor(newColor)
+    fun setColor(newColor: String) {
+        color = Color.parseColor(newColor)
         mDrawPath!!.color = color
     }
 }
