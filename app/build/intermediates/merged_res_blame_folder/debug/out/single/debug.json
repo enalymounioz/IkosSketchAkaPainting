@@ -1,138 +1,134 @@
 [
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\xml\\data_extraction_rules.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_large.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\large.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_pallet_normal.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/pallet_normal.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable-v24_ic_brush.png.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable-v24\\ic_brush.png"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\layout_dialog_brush_size.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\layout\\dialog_brush_size.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable-v24_ic_undo.png.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable-v24/ic_undo.png"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\xml\\backup_rules.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_button_background.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/button_background.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_pallet_selected.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\pallet_selected.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable-v24_ic_gallery.png.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable-v24/ic_gallery.png"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_pallet_normal.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\pallet_normal.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_background_drawing_view_layout.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/background_drawing_view_layout.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_large.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/large.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_background_drawing_view_layout.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\background_drawing_view_layout.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_medium.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/medium.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable-v24_ic_three_trees.png.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable-v24\\ic_three_trees.png"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_ic_save.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\ic_save.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.elenivoreos.ikosketch.app-merged_res-33:/layout_activity_main.xml.flat",
-        "source": "com.elenivoreos.ikosketch.app-main-35:/layout/activity_main.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable-v24_ic_redo.png.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable-v24/ic_redo.png"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/layout_dialog_brush_size.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/layout/dialog_brush_size.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_pallet_selected.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/pallet_selected.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable-v24_ic_redo.png.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable-v24\\ic_redo.png"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_small.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/small.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/layout_dialog_custom_progress.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/layout/dialog_custom_progress.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_button_background.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\button_background.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\xml_path.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\xml\\path.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_ic_save.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/ic_save.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable-v24_ic_undo.png.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable-v24\\ic_undo.png"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_medium.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\medium.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\layout\\activity_main.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable-v24_ic_three_trees.png.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable-v24/ic_three_trees.png"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\layout_dialog_custom_progress.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\layout\\dialog_custom_progress.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/xml_path.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/xml/path.xml"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable-v24_ic_gallery.png.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable-v24\\ic_gallery.png"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/drawable-v24_ic_brush.png.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/drawable-v24/ic_brush.png"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-merged_res-33:\\drawable_small.xml.flat",
-        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.elenivoreos.ikosketch.app-main-35:\\drawable\\small.xml"
+        "merged": "com.elenivoreos.ikosketch.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.elenivoreos.ikosketch.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
     }
 ]

@@ -6,83 +6,83 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
+8-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml
+9-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:5:5-79
-11-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:5:22-77
+11-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:5:22-77
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:6:5-80
-12-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:6:22-78
+12-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:6:22-78
 13
 14    <application
-14-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:9:5-44:19
+14-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:9:5-44:19
 15        android:allowBackup="true"
-15-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:10:9-35
+15-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:10:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 16-->[androidx.core:core:1.8.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 17        android:dataExtractionRules="@xml/data_extraction_rules"
-17-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:11:9-65
+17-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:11:9-65
 18        android:debuggable="true"
 19        android:extractNativeLibs="false"
 20        android:fullBackupContent="@xml/backup_rules"
-20-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:12:9-54
+20-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:12:9-54
 21        android:icon="@drawable/ic_brush"
-21-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:13:9-42
+21-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:13:9-42
 22        android:label="@string/app_name"
-22-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:14:9-41
+22-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:14:9-41
 23        android:roundIcon="@drawable/ic_brush"
-23-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:15:9-47
+23-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:15:9-47
 24        android:supportsRtl="true"
-24-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:16:9-35
+24-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:16:9-35
 25        android:testOnly="true"
 26        android:theme="@style/Theme.IkoSketch" >
-26-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:17:9-47
+26-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:17:9-47
 27        <activity
-27-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:19:9-33:20
+27-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:19:9-33:20
 28            android:name="com.elenivoreos.ikosketch.MainActivity"
-28-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:20:13-41
+28-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:20:13-41
 29            android:exported="true"
-29-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:21:13-36
+29-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:21:13-36
 30            android:screenOrientation="portrait" >
-30-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:22:13-49
+30-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:22:13-49
 31            <intent-filter>
-31-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:24:13-28:29
+31-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:24:13-28:29
 32                <action android:name="android.intent.action.MAIN" />
-32-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:25:17-69
-32-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:25:25-66
+32-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:25:17-69
+32-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:25:25-66
 33
 34                <category android:name="android.intent.category.LAUNCHER" />
-34-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:27:17-77
-34-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:27:27-74
+34-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:27:17-77
+34-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:27:27-74
 35            </intent-filter>
 36
 37            <meta-data
-37-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:30:13-32:36
+37-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:30:13-32:36
 38                android:name="android.app.lib_name"
-38-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:31:17-52
+38-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:31:17-52
 39                android:value="" />
-39-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:32:17-33
+39-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:32:17-33
 40        </activity>
 41
 42        <provider
-42-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:34:9-43:20
+42-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:34:9-43:20
 43            android:name="androidx.core.content.FileProvider"
-43-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:36:13-62
+43-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:36:13-62
 44            android:authorities="com.elenivoreos.ikosketch.fileprovider"
-44-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:35:13-73
+44-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:35:13-73
 45            android:exported="false"
-45-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:37:13-37
+45-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:37:13-37
 46            android:grantUriPermissions="true" >
-46-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:38:13-47
+46-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:38:13-47
 47            <meta-data
-47-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:39:13-41:47
+47-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:39:13-41:47
 48                android:name="android.support.FILE_PROVIDER_PATHS"
-48-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:40:17-67
+48-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:40:17-67
 49                android:resource="@xml/path" />
-49-->C:\Users\evoreopoulou\AndroidStudioProjects\IkoSketch\app\src\main\AndroidManifest.xml:41:17-45
+49-->C:\Users\evoreopoulou\AndroidStudioProjects\Past Projects\IkoSketch\app\src\main\AndroidManifest.xml:41:17-45
 50        </provider>
 51        <provider
 51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\evoreopoulou\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20

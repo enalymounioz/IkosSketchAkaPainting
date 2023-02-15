@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.elenivoreos.ikosketch.app-mergeDebugResources-31:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.elenivoreos.ikosketch.app-mergeDebugResources-35:/values-night-v8/values-night-v8.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\evoreopoulou\\AndroidStudioProjects\\IkoSketch\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "798"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "687",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1264"
-                    }
-                },
                 {
                     "source": "C:\\Users\\evoreopoulou\\.gradle\\caches\\transforms-3\\35247393b79a5fe3c4f500e2adf3d76f\\transformed\\appcompat-1.5.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -37,6 +18,25 @@
                         "startOffsets": "55,125,209,293,389,491,593,3923",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "120,204,288,384,486,588,682,4007"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\evoreopoulou\\AndroidStudioProjects\\Past Projects\\IkoSketch\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "798"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1264"
                     }
                 },
                 {

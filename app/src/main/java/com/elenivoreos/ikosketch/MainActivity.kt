@@ -6,7 +6,6 @@ import android.app.Dialog
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.Bitmap
-import android.graphics.BitmapFactory
 import android.graphics.Canvas
 import android.graphics.Color
 import android.media.MediaScannerConnection
@@ -17,15 +16,15 @@ import android.view.View
 import android.widget.FrameLayout
 import android.widget.ImageButton
 import android.widget.ImageView
-import android.widget.LinearLayout
 import android.widget.Toast
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import androidx.core.util.Preconditions.checkState
 import androidx.core.view.get
+import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.lifecycleScope
+import com.elenivoreos.ikosketch.databinding.ActivityMainBinding
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
@@ -35,7 +34,8 @@ import java.io.FileOutputStream
 
 class MainActivity : AppCompatActivity() {
 
-    private var drawingView: DrawingView? = null
+    private lateinit var binding : ActivityMainBinding
+
     private var mImageButtonCurrentPaint: ImageButton? =
         null // A variable for current color is picked from color pallet
 
@@ -89,21 +89,17 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-        drawingView = findViewById(R.id.drawing_view)
-        val imageButtonBrush: ImageButton = findViewById(R.id.imageButton_brush)
-        drawingView?.setSizeForBrush(20.toFloat())
-        val linearLayoutPaintColors = findViewById<LinearLayout>(R.id.paint_colors)
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
+        binding.drawingView.setSizeForBrush(20.toFloat())
 
-        mImageButtonCurrentPaint = linearLayoutPaintColors[1] as ImageButton
-        mImageButtonCurrentPaint?.setImageDrawable(
+        binding.imageButtonBrush.setImageDrawable(
             ContextCompat.getDrawable(
                 this,
                 R.drawable.pallet_selected
             )
         )
 
-        imageButtonBrush.setOnClickListener {
+        binding.imageButtonBrush.setOnClickListener {
             showBrushSizeChooserDialog()
         }
         val imageButtonGallery: ImageButton = findViewById(R.id.imageButton_gallery)
@@ -114,13 +110,13 @@ class MainActivity : AppCompatActivity() {
         val imageButtonUndo: ImageButton = findViewById(R.id.imageButton_undo)
         imageButtonUndo.setOnClickListener {
             // This is for undo recent stroke.
-            drawingView?.onClickUndo()
+            binding.drawingView.onClickUndo()
 
         }
 
         val imageButtonRedo: ImageButton = findViewById(R.id.imageButton_redo)
         imageButtonRedo.setOnClickListener {
-            drawingView?.onClickRedo()
+            binding.drawingView.onClickRedo()
 
         }
 
@@ -157,18 +153,18 @@ class MainActivity : AppCompatActivity() {
 
         val smallButton: ImageButton = brushDialog.findViewById(R.id.imageButton_small_brush)
         smallButton.setOnClickListener(View.OnClickListener {
-            drawingView!!.setSizeForBrush(10.toFloat())
+            binding.drawingView.setSizeForBrush(10.toFloat())
             brushDialog.dismiss()
         })
         val mediumButton: ImageButton = brushDialog.findViewById(R.id.imageButton_medium_brush)
         mediumButton.setOnClickListener(View.OnClickListener {
-            drawingView!!.setSizeForBrush(20.toFloat())
+            binding.drawingView.setSizeForBrush(20.toFloat())
             brushDialog.dismiss()
         })
 
         val largeButton: ImageButton = brushDialog.findViewById(R.id.imageButton_large_brush)
         largeButton.setOnClickListener(View.OnClickListener {
-            drawingView!!.setSizeForBrush(30.toFloat())
+            binding.drawingView.setSizeForBrush(30.toFloat())
             brushDialog.dismiss()
         })
 
@@ -187,7 +183,7 @@ class MainActivity : AppCompatActivity() {
             // The tag stores the selected view
             val colorTag = imageButton.tag.toString()
             // The color is set as per the selected tag here.
-            drawingView?.setColor(colorTag)
+            binding.drawingView.setColor(colorTag)
         // Swap the backgrounds for last active and currently active image button.
             imageButton!!.setImageDrawable(
                 ContextCompat.getDrawable(
